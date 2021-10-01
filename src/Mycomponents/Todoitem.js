@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Todos = () => {
+const Todoitem = () => {
   return (
     <>
       <h1>this is Todos</h1>
@@ -8,4 +8,4 @@ const Todos = () => {
   );
 };
 
-export default Todos;
+export default Todoitem;
